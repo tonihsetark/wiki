@@ -32,7 +32,7 @@ defaults:
   values:
     _comments:
       type: Marks the impact of this release
-url: https://long-pig.cloudvent.net
+url: 
 baseurl: 
 google_analytics_key: 
 show_full_navigation: true
